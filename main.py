@@ -12,7 +12,7 @@ def load_page():
     df = pd.DataFrame(data)
 
     # Display the DataFrame
-    print("Original DataFrame:\n", df)
+    print("Original DataFrame test:\n", df)
 
     # Get information about the DataFrame
     print("\nDataFrame Info:\n", df.info())
